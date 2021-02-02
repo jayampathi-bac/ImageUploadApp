@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64c9be18-20e8-41fa-b4c9-658abf67fba0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1nsPEEDeGCcrDVoyB1aarswEmHr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alpha\go\src\github.com\jayampathi-bac\ImgUploadApp\public\assets\controller" />
+      <recent name="C:\Users\alpha\go\src\github.com\jayampathi-bac\ImgUploadApp\public" />
+      <recent name="C:\Users\alpha\go\src\github.com\jayampathi-bac\ImgUploadApp" />
+      <recent name="C:\Users\alpha\go\src\github.com\jayampathi-bac\ImgUploadApp\temp-img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alpha\go\src\github.com\jayampathi-bac\ImgUploadApp\public\assets" />
+      <recent name="C:\Users\alpha\go\src\github.com\jayampathi-bac\ImgUploadApp" />
+      <recent name="C:\Users\alpha\go\src\github.com\jayampathi-bac\ImgUploadApp\temp-img" />
+      <recent name="C:\Users\alpha\go\src\github.com\jayampathi-bac\ImgUploadApp\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ImgUploadApp" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/jayampathi-bac/ImgUploadApp" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64c9be18-20e8-41fa-b4c9-658abf67fba0" name="Default Changelist" comment="" />
+      <created>1612175711313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612175711313</updated>
+      <workItem from="1612175714068" duration="2760000" />
+      <workItem from="1612235296940" duration="1309000" />
+      <workItem from="1612240334238" duration="24554000" />
+      <workItem from="1612269380283" duration="3757000" />
+      <workItem from="1612273852637" duration="852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="30" key="#Template_Data_Languages" timestamp="1612256349729">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="30" key="#Template_Data_Languages/0.0.1366.738@0.0.1366.738" timestamp="1612256349729" />
+    <state x="463" y="127" key="FileChooserDialogImpl" timestamp="1612258208027">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="127" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1612258208027" />
+    <state width="1323" height="128" key="GridCell.Tab.0.bottom" timestamp="1612274860562">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1612274860562" />
+    <state width="1323" height="128" key="GridCell.Tab.0.center" timestamp="1612274860562">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1612274860562" />
+    <state width="1323" height="128" key="GridCell.Tab.0.left" timestamp="1612274860561">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1612274860561" />
+    <state width="1323" height="128" key="GridCell.Tab.0.right" timestamp="1612274860562">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="128" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1612274860562" />
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1612274744268">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1612274744268" />
+    <state x="390" y="3" width="586" height="732" key="find.popup" timestamp="1612254156648">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="3" width="586" height="732" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1612254156648" />
+    <state x="65" y="0" key="new project wizard" timestamp="1612178085136">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1612178085136" />
+  </component>
+</project>
